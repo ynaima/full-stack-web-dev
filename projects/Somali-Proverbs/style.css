@@ -1,0 +1,133 @@
+body{
+    background-color:ghostwhite;
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+}
+
+.main-header{
+    color: #D98324;
+    font-size: 2rem;
+    font-weight: Bold;
+    text-transform: uppercase;
+    margin-top: 40px;
+    
+}
+
+.main-paragraph{
+    color:dimgray;
+    font-style: oblique;
+    margin:0px;
+}
+
+.pic{
+    width:100%;
+    border-radius: 5px;
+    
+}
+
+.outer-div{
+    margin-top: 40px;
+    background-color: ghostwhite;
+    width:90%;
+    margin-left: 5%;
+}
+
+.category-cards{
+    background-color: snow;
+    border: 2px solid ivory;
+    margin:5px;
+    border-radius: 5px;
+    
+}
+
+.row-div{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    background-color:snow;
+}
+
+.proverb-cards{
+    background-color: darkolivegreen;
+    color: whitesmoke;
+    width:100%;
+    margin:1px;
+    border-radius: 7px;
+    border: 2px solid snow;
+    text-align: center;
+}
+
+.somali-text{
+    color:black;
+    border-radius: 4px;
+    padding:20px;
+    margin: 2px 4px;
+    text-align: center;
+
+}
+#card1{
+    background-color: #876445;
+    
+}
+#card2{
+    background-color: #B17F59;
+    
+}
+
+
+#card3{
+    background-color:#C68B59;
+}
+
+#somalitext1{
+    
+    background-color: #CA955C;
+    
+    
+}
+#somalitext2{
+    background-color: #F6CD90;
+}
+#somalitext3{
+    background-color: burlywood;
+    
+}
+.heading4{
+    font-size: 14px;
+}
+
+.explanation{
+    font-size: 14px;
+}
+
+.main-header2{
+    font-size: 2rem;
+    font-weight: Bold;
+    text-transform: uppercase;
+    margin-top: 40px;
+    
+}
+
+#card4{
+    background-color: #944E63;
+}
+#card5{
+background-color: #704264;
+}
+#card6{
+background-color: #943855;
+}
+
+#somalitext4{
+    background-color: #B47B84;
+
+}
+
+#somalitext5{
+background-color: #975C8D;
+}
+#somalitext6{
+background-color: #944E63;
+}
+
+

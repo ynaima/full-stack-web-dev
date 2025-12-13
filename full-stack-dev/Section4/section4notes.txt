@@ -1,0 +1,26 @@
+Computer file paths 
+absolute file paths - this is when we use the path from the root of the Computer
+
+Relative file path - this is where the path is relative to the current file.
+
+exercise 4.0 exploring file paths.
+
+
+When we want to create multiple web pages, we have to use relative path to add 
+the other pages such as about.html or contat.html pages
+
+exercise 4.3 involves creating a portfolio of the projects we have worked on so far
+
+The next part is hosting the website on github for free
+Steps:
+1 - create a new repository
+2 - go to the reposity and upload files and commit
+3 - once the files are processed go to setting-pages-branch-master-save
+4 - refresh the page untill you see a link to the online website 
+5 - done
+
+
+the link to the above exercise: https://ynaima.github.io/html-portfolio/
+
+The last thing is the capstone project, instructions and project will be in the capstone project folder
+The capstone project is an opportunity to put into practice everything we have learned so far

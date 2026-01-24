@@ -7,14 +7,14 @@ exercise 4.0 exploring file paths.
 
 
 When we want to create multiple web pages, we have to use relative path to add 
-the other pages such as about.html or contat.html pages
+the other pages such as about.html or contact.html pages
 
 exercise 4.3 involves creating a portfolio of the projects we have worked on so far
 
 The next part is hosting the website on github for free
 Steps:
 1 - create a new repository
-2 - go to the reposity and upload files and commit
+2 - go to the repository and upload files and commit
 3 - once the files are processed go to setting-pages-branch-master-save
 4 - refresh the page untill you see a link to the online website 
 5 - done

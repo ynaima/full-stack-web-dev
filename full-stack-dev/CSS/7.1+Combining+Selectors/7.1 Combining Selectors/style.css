@@ -1,0 +1,28 @@
+/* Write your code here: */
+/* 1. Grouping: selector1, selector2*/
+h1, h2{
+    color:blueviolet;
+}
+
+/* direct child: parentselector > childselector*/
+.box > p{
+    color: firebrick;
+}
+
+/* descendant-other child: ancestor selector anychilddescdant */
+.box li{
+    color: blue;
+}
+
+/*chaining: selector1selector2selector3etc
+start with element selector if using that */
+
+li.done{
+    color:green;
+}
+
+/* Combining combiners: selector selectorselector */
+
+ul p.done{
+    font-size: 0.5rem;
+}

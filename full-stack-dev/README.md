@@ -1,7 +1,5 @@
 # full-stack-web-dev
-
-full stack web development from beginning from beginner to advanced in python
-Tools and Technologies acquired through this course:
+Tools and Technologies
 HTML 5
 CSS 3
 Flexbox
